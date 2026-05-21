@@ -1,0 +1,36 @@
+# Ignore PokeAnimDB and example folders
+PokeAnimDB/
+example/
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv.bak/
+.env
+
+# Test and coverage
+.pytest_cache/
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
