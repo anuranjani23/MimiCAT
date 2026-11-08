@@ -34,3 +34,9 @@ venv.bak/
 
 # Windows
 Thumbs.db
+
+data/
+checkpoints/
+outputs/
+__pycache__/
+*.pt
