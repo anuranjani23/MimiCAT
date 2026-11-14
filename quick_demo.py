@@ -12,7 +12,7 @@ import os
 import zlib
 
 
-DATA_ROOT = Path(__file__).resolve().parent / "PokeAnimDB" / "data"
+DATA_ROOT = Path(__file__).resolve().parent / "data" /"PokeAnimDB" / "data"
 OUTPUT_ROOT = Path(__file__).resolve().parent / "example"
 FPS = 24
 RESOLUTION = 512
