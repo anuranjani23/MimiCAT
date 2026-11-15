@@ -37,9 +37,27 @@ Left to right: source motion, **hard** (geometric Hungarian baseline), **g** (ou
 (label-derived correspondence, an upper-bound reference). The number in each label is how many
 target joints that variant drives.
 
-![success demo](outputs/video_success1.mp4)
+Successful Demos:
 
-![success demo](outputs/video_success.mp4)
+https://github.com/user-attachments/assets/ca65a7ca-af71-4411-a975-55815ba8a5a0
+
+
+https://github.com/user-attachments/assets/fd33a4fd-c43c-4484-868d-aa9bed182c43
+
+
+https://github.com/user-attachments/assets/6b65c622-d11f-4cea-81f1-81e1ba21c057
+
+
+Cases where it Failed, or G beats hard the most:
+
+
+
+https://github.com/user-attachments/assets/d6a8caba-081b-4b39-91c2-c781be9d3947
+
+
+
+https://github.com/user-attachments/assets/7c796f34-d1ef-4f62-a3dc-e7c1a1c3218a
+
 
 
 
